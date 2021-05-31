@@ -21,7 +21,7 @@
 </p>
  
 <p align="left">
-<img align="center" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" alt="ioloolo#5974" height="40" width="40" />Ioloolo#5955</a>
+<img align="center" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" alt="ioloolo#5974" height="40" width="40" />손대현#5955</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
