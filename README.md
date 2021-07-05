@@ -8,7 +8,7 @@
 
 - 🔭 I am a member of [TriggerReactor](github.com/TriggerReactor).
 
-- 🌱 I’m currently learning **Web(HTML, CSS, JS)**, **Electron**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **Some Java, JavaScript, and Python**
 
